@@ -13,20 +13,30 @@
     
     <item>
       <title>How are you</title>
-      <link>/2018/05/25/how-are-you/</link>
+      <link>/20180525-how-are-you/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/25/how-are-you/</guid>
+      <guid>/20180525-how-are-you/</guid>
+      <description>We build a linear regression below.
+fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.</description>
+    </item>
+    
+    <item>
+      <title>I am good</title>
+      <link>/20180525-i-am-good/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/20180525-i-am-good/</guid>
       <description>We build a linear regression below.
 fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.</description>
     </item>
     
     <item>
       <title>Just a Markdown test</title>
-      <link>/2018/05/25/just-a-markdown-test/</link>
+      <link>/20180525-just-a-markdown-test/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/25/just-a-markdown-test/</guid>
+      <guid>/20180525-just-a-markdown-test/</guid>
       <description>blogdown::shortcode(&#39;tweet&#39;, &#39;852205086956818432&#39;)  </description>
     </item>
     
