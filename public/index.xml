@@ -22,6 +22,15 @@ fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope o
     </item>
     
     <item>
+      <title>Just a Markdown test</title>
+      <link>/2018/05/25/just-a-markdown-test/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/25/just-a-markdown-test/</guid>
+      <description>blogdown::shortcode(&#39;tweet&#39;, &#39;852205086956818432&#39;)  </description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>

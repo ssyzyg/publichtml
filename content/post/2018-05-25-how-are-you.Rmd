@@ -2,10 +2,11 @@
 title: How are you
 author: Yaha
 date: '2018-05-25'
-slug: how-are-you
 categories:
   - odds
-tags: []
+tags:
+  - odds
+slug: how-are-you
 ---
 ---
 title: A Simple Linear Regression
