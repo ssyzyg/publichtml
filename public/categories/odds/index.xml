@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odds on My Hugo website</title>
+    <link>/categories/odds/</link>
+    <description>Recent content in Odds on My Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/odds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How are you</title>
+      <link>/2018/05/25/how-are-you/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/25/how-are-you/</guid>
+      <description>We build a linear regression below.
+fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.</description>
+    </item>
+    
+  </channel>
+</rss>

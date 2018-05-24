@@ -1,0 +1,23 @@
+---
+title: How are you
+author: Yaha
+date: '2018-05-25'
+slug: how-are-you
+categories:
+  - odds
+tags: []
+---
+---
+title: A Simple Linear Regression
+author: Yihui Xie
+---
+
+We build a linear regression below.
+
+```{r}
+fit = lm(dist ~ speed, data = cars)
+b = coef(summary(fit))
+plot(fit)
+```
+
+The slope of the regression is `r b[2, 1]`.
