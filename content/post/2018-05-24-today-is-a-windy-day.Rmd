@@ -1,0 +1,12 @@
+---
+title: Today is a windy day
+author: Yaha
+date: '2018-05-24'
+categories:
+  - odds
+slug: today-is-a-windy-day
+![HPE](/post/2018-05-24-today-is-a-windy-day_files/hpe_logo_s - 副本.png)---
+
+```{r cool-plot, fig.cap='A cool plot.'}
+plot(cars, pch = 20)  # not really cool
+```

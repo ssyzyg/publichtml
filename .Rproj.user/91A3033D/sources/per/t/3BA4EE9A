@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527169174958.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3516209232",
+    "id" : "3BA4EE9A",
+    "lastKnownWriteTime" : 1527173612,
+    "last_content_update" : 1527173612697,
+    "path" : "~/R_Space/bookdown/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "25,33",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
