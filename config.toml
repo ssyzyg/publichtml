@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "沙发说"
+title = "沙发说R"
 theme = "hugo-ivy" #"hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "http://blg.sofasay.com"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Build the site with R bookdown package"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
