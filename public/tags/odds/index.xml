@@ -18,16 +18,16 @@
       
       <guid>/20180525-how-are-you/</guid>
       <description>We build a linear regression below.
-fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.</description>
+fit = lm(dist ~ speed, data = cars) b = coef(summary(fit)) plot(fit) The slope of the regression is 3.9324088.</description>
     </item>
     
     <item>
-      <title>I am good</title>
+      <title>I am good YES</title>
       <link>/20180525-i-am-good/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/20180525-i-am-good/</guid>
-      <description>We build a linear regression below.
+      <description>WHAT CHANGED!! We build a linear regression below.
 fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.</description>
     </item>
     
