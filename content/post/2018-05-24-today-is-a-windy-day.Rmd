@@ -5,8 +5,12 @@ date: '2018-05-24'
 categories:
   - odds
 slug: today-is-a-windy-day
+
+就可以注册了，直接在 Sign up with one of the following: 下面选择 GitHub 就行了。
 ![HPE](/post/2018-05-24-today-is-a-windy-day_files/hpe_logo_s - 副本.png)---
 
 ```{r cool-plot, fig.cap='A cool plot.'}
 plot(cars, pch = 20)  # not really cool
 ```
+
+
